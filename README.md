@@ -4,16 +4,16 @@ This is a notepad created using pure java.
 -> If you mistakenly click the cross button the content of notepad will automatically save on the desktop
 -> There are three tabs File, Attrbute, Edit
 
-    In File Tab:
+   In File Tab:
  1) ctrl+S to save file
  2) ctrl+O to open the existing file
  3) ctrl+N to open the new file
-    
-    In Attribute Tab:
+   
+   In Attribute Tab:
  1) ctrl+F to change Font Color
  2) ctrl+B to change Background Color
  
-  In Edit Tab:
+   In Edit Tab:
 1) ctrl+X to cut
 2) ctrl+C to copy
 3) ctrl+V to paste
